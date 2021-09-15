@@ -19,6 +19,7 @@ p {
 
 body {
  background-color: lightgoldenrodyellow;
+ margin-top: 50px;
 }
 .container {
  display: flex;
