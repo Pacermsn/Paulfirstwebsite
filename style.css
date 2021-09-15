@@ -1,0 +1,33 @@
+h2 {
+ font-family: preconnect;
+ font-size: 52px;
+ text-align: center;
+ color: darkorange;
+ font-style: italic;
+ -webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+}
+
+p {
+ font-family: serif;
+ font-size: 28px;
+ font-style: italic;
+ text-align: center;
+ color: darkorange;
+ text-shadow: 1px 1px black;
+}
+
+body {
+ background-color: lightgoldenrodyellow;
+}
+.container {
+ display: flex;
+ justify-content: center;
+}
+footer {
+ font-family: serif;
+ font-size: 20px;
+ font-style: italic;
+ color: darkorange;
+ text-shadow: 1px 1px black;
+}
